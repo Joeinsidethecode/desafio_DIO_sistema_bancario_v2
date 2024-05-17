@@ -143,7 +143,7 @@ def menu():
             print('Opção inválida. Escolha a operação desejada.\n')
 
 if __name__ == "__main__":
-    cliente = input('Olá! como podemos lhe chamar?:')
+    cliente = input('Olá! Como gostaria de ser chamado?:')
     print('----------------------------------------------------------------------')
     print(f'  Olá, {cliente.upper()}! O Banco Itander-Bradescaixa lhe dá as boas-vindas.') 
     print('----------------------------------------------------------------------')
