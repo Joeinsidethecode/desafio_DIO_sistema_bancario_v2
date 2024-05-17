@@ -1,1 +1,4 @@
-a completar...
+Este repositório foi criado para aprendizado Python e exercício de desenvolvimendo de um programa simulando operações bancárias simples atendendo aos requisitos propostos por @guicarvalho. digitalinnovationone/trilha-python-dio
+Esta versão cria as funções deposito(), saque() e extrato() para as linhas de código da versão v1 e acrescenta as funções cadastro_cliente() e cadastro_conta() para a inclusão de informações de novos usuários.
+Foi uma tarefa muito difícil, porem enriquecedora para mim, que sou um iniciante es estou dando meus primeiros passos na programação.
+Grande parte da lógica foi desenvolvida por mim, mas com  auxílio da revisão final pela IA, caso contrário, eu não teria conseguido executar esta tarefa em tempo razoável. Desculpem, mas a busca por ajuda de outras fontes também faz parte do meu processo de aprendizado.  
